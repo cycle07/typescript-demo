@@ -15,6 +15,9 @@ printLabel({
 });
 
 // 批量方法参数约束，对象约束，属性接口
+// interface 与 type 区别
+// interface一般只用于定义函数、类、对象
+// type使用绝大多数类型，普通值、对象、函数、数组、元组
 interface FullName {
   firstName: string; // 以分号结束和对象不一样
   lastName: string;

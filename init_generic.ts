@@ -61,3 +61,5 @@ interface Config2<T> { // 具体取决于泛型的覆盖范围
 const getData3 = <T>(value:T):T => value;
 const myGetData: Config2<string> = getData3;
 myGetData('123123');
+
+
