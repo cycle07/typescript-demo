@@ -1,0 +1,23 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycle07/typescript-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cycle07/typescript-demo/issues"
+  },
+  "homepage": "https://github.com/cycle07/typescript-demo#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

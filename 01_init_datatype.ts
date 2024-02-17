@@ -12,6 +12,7 @@ str = "dfsdf";
 let arr: number[] = [11, 22, 33]; // 内容都为字符串的数组
 let arr2: Array<number> = [11, 22, 33];
 let arr3: any[] = [1, '12', false];
+let arr4: (number | string)[] = [1, 'true']
 
 // 元组 tuple
 
