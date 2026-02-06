@@ -19,5 +19,8 @@
   "homepage": "https://github.com/cycle07/typescript-demo#readme",
   "devDependencies": {
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
   }
 }
